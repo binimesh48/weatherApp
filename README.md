@@ -1,4 +1,4 @@
-# WeatherHero
+# WeatherApp
 
 A react weather app that displays weather infromation from OpenWeatherMap API
 
