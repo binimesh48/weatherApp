@@ -2,7 +2,7 @@
 
 A react weather app that displays weather infromation from OpenWeatherMap API
 
-![Screenshot ](https://drive.google.com/file/d/116DTEgNiMCHQ3NFX8JQS0pmgEG9bZulc/view?usp=drivesdk)
+![Screenshot (1209)](https://user-images.githubusercontent.com/49594431/128355232-7ac30646-313a-4e53-8e3d-aa948c9e7008.png)
 
 ## Getting started
 
